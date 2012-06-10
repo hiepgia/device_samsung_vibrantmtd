@@ -16,7 +16,7 @@
 #
 # Product-specific compile-time definitions.
 #
-#Inline Building Kernel
+#Inline Building Kernel 
 TARGET_KERNEL_CONFIG := aries_vibrantmtd_defconfig
 
 #Prebuilt Kernel
