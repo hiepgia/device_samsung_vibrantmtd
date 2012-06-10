@@ -16,6 +16,8 @@
 #
 # Product-specific compile-time definitions.
 #
+#Inline Building Kernel
+TARGET_KERNEL_CONFIG := aries_vibrantmtd_defconfig
 
 #Prebuilt Kernel
 TARGET_PREBUILT_KERNEL := device/samsung/vibrantmtd/kernel
